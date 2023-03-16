@@ -1,0 +1,10 @@
+public class Veiculo {
+	String tipoDeVeiculo;
+    String marca;
+    String modelo;
+    Decimal anoFabricacao;
+    Decimal valorCompra;
+    Decimal valorVenda;
+    String proprietario;
+    String antigoProprietario;
+}

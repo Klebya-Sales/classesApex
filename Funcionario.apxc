@@ -1,0 +1,8 @@
+public class Funcionario {
+	String nome;
+    String cargo;
+    Decimal rg;
+    Decimal cpf;
+    Decimal contato;
+    String email;
+}

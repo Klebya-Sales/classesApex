@@ -1,0 +1,9 @@
+public class Cliente {
+	String nomeCompleto;
+    Decimal rg;
+    Decimal cpf;
+    String endereco;
+    Decimal contato;
+    String email;
+    
+}
