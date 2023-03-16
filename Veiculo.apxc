@@ -7,4 +7,5 @@ public class Veiculo {
     Decimal valorVenda;
     String proprietario;
     String antigoProprietario;
+    Decimal desvalorizacao;
 }
